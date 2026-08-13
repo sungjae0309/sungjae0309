@@ -28,6 +28,13 @@ Foundry 기반 스마트 컨트랙트 실습 저장소입니다. Forge 테스트
 
 ## Frontend
 
+### [JOB자](https://github.com/sungjae0309/3rd_project_dashboard) · React · 4인 팀 프로젝트
+신입 구직자를 위한 AI 커리어 파트너입니다. **Front-End를 담당해 UI/UX 설계와 동적 웹 구축**을 맡았습니다.
+목표 직무와의 역량 갭 분석, 커리어 로드맵, 채용 트렌드 시각화, 대화형 상담 화면을 구현했습니다.
+
+React · Zustand · styled-components · Recharts / D3 · Docker
+[팀 저장소](https://github.com/whynotsw-camp/wh05-3rd-CHteam-JOB) · [시연 영상](https://www.youtube.com/watch?v=7TKfn1Pfmd4)
+
 ### [Plog](https://github.com/UMC-Plog/Plog-FE) · TypeScript · 팀 프로젝트
 UMC 팀 프로젝트의 프론트엔드를 맡아 인증·온보딩 흐름을 구현했습니다.
 
