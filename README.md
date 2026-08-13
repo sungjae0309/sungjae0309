@@ -13,11 +13,10 @@
 | | 무엇 | 역할 | 스택 |
 |---|---|---|---|
 | **[Voisk](https://github.com/Capstone06-Team02/frontend)** | 시각장애인 맞춤 NFC 음성 주문 서비스 | 프론트엔드 · UI/UX 기획 | `React` `TypeScript` `Vite` |
-| **[JOB자](https://github.com/sungjae0309/3rd_project_dashboard)** 🏆 | 직무 트렌드를 분석해 커리어 로드맵을 제공하는 AI 커리어 플랫폼<br><sub>[시연 영상](https://www.youtube.com/watch?v=7TKfn1Pfmd4)</sub> | 프론트엔드 · UI/UX | `React` `D3` `Docker` |
+| **[JOB자](https://github.com/sungjae0309/3rd_project_dashboard)** | 직무 트렌드를 분석해 커리어 로드맵을 제공하는 AI 커리어 플랫폼<br><sub>[시연 영상](https://www.youtube.com/watch?v=7TKfn1Pfmd4)</sub> | 프론트엔드 · UI/UX | `React` `D3` `Docker` |
 | **[Plog](https://github.com/UMC-Plog/Plog-FE)** | 팀 프로젝트 기여도 평가 플랫폼 | 프론트엔드 | `React` `TypeScript` `Zustand` |
 | **[대일테크 리뉴얼](https://github.com/sungjae0309/daeiltech_renewal)** | 기업 홈페이지 리뉴얼 프로토타입 | `Next.js` `Tailwind` |
 
-🏆 **LG U+ Why Not SW캠프 최우수상** — JOB자
 
 <br>
 
