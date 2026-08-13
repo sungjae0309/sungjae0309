@@ -1,5 +1,4 @@
-## ⛓️ Blockchain / Web3
-
+## Blockchain / Web3
 | | 무엇 | 스택 |
 |---|---|---|
 | **[cantor8](https://github.com/sungjae0309/cantor8)** | PoS 체인의 검열 공격이 경제적으로 성립하는지 정량 분석<br> | `Python` |
@@ -8,8 +7,7 @@
 
 <br>
 
-## 🖥 Frontend
-
+## Frontend
 | | 무엇 | 역할 | 스택 |
 |---|---|---|---|
 | **[Voisk](https://github.com/Capstone06-Team02/frontend)** | 시각장애인 맞춤 NFC 음성 주문 서비스 | 프론트엔드 · UI/UX 기획 | `React` `TypeScript` `Vite` |
