@@ -1,20 +1,21 @@
 ## Blockchain / Web3
-| | 무엇 | 스택 |
+
+| | | |
 |---|---|---|
-| **[cantor8](https://github.com/sungjae0309/cantor8)** | PoS 체인의 검열 공격이 경제적으로 성립하는지 정량 분석<br> | `Python` |
-| **[whyblockchain](https://github.com/sungjae0309/whyblockchain)** | "왜 블록체인이어야 하는가" 일반인이 이해를 돕는 사이트(개발중) | `TypeScript` |
+| **[cantor8](https://github.com/sungjae0309/cantor8)** | PoS 체인의 검열 공격이 경제적으로 성립하는지 정량 분석 | `Python` |
+| **[whyblockchain](https://github.com/sungjae0309/whyblockchain)** | "왜 블록체인이어야 하는가" 일반인의 이해를 돕는 사이트<br><sub>개발 중</sub> | `TypeScript` |
 | **[solidity-foundry](https://github.com/sungjae0309/solidity-foundry)** | 스마트 컨트랙트 실습 | `Solidity` `Foundry` |
 
 <br>
 
 ## Frontend
-| | 무엇 | 역할 | 스택 |
-|---|---|---|---|
-| **[Voisk](https://github.com/Capstone06-Team02/frontend)** | 시각장애인 맞춤 NFC 음성 주문 서비스 | 프론트엔드 · UI/UX 기획 | `React` `TypeScript` `Vite` |
-| **[JOB자](https://github.com/sungjae0309/3rd_project_dashboard)** | 직무 트렌드를 분석해 커리어 로드맵을 제공하는 AI 커리어 플랫폼<br><sub>[시연 영상](https://www.youtube.com/watch?v=7TKfn1Pfmd4)</sub> | 프론트엔드 · UI/UX | `React` `D3` `Docker` |
-| **[Plog](https://github.com/UMC-Plog/Plog-FE)** | 팀 프로젝트 기여도 평가 플랫폼 | 프론트엔드 | `React` `TypeScript` `Zustand` |
-| **[대일테크 리뉴얼](https://github.com/sungjae0309/daeiltech_renewal)** | 기업 홈페이지 리뉴얼 프로토타입 | `Next.js` `Tailwind` |
 
+| | | |
+|---|---|---|
+| **[Voisk](https://github.com/Capstone06-Team02/frontend)** | 시각장애인 맞춤 NFC 음성 주문 서비스<br><sub>프론트엔드 · UI/UX 기획</sub> | `React` `TypeScript` `Vite` |
+| **[JOB자](https://github.com/sungjae0309/3rd_project_dashboard)** | 직무 트렌드를 분석해 커리어 로드맵을 제공하는 AI 커리어 플랫폼<br><sub>프론트엔드 · UI/UX · [시연 영상](https://www.youtube.com/watch?v=7TKfn1Pfmd4)</sub> | `React` `D3` `Docker` |
+| **[Plog](https://github.com/UMC-Plog/Plog-FE)** | 팀 프로젝트 기여도 평가 플랫폼<br><sub>프론트엔드</sub> | `React` `TypeScript` `Zustand` |
+| **[대일테크 리뉴얼](https://github.com/sungjae0309/daeiltech_renewal)** | 기업 홈페이지 리뉴얼 프로토타입<br><sub>단독</sub> | `Next.js` `Tailwind` |
 
 <br>
 
@@ -26,7 +27,7 @@
 
 ## Tech
 
-`TypeScript` `JavaScript` `Python` &nbsp;|&nbsp; `React` `Tailwind CSS` `Zustand` &nbsp;|&nbsp;  `Figma`
+`TypeScript` `JavaScript` `Python` `Solidity` &nbsp;|&nbsp; `React` `Next.js` `Tailwind CSS` `Zustand` &nbsp;|&nbsp; `Figma` `Foundry`
 
 <br>
 
