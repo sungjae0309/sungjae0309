@@ -3,7 +3,7 @@
 ### [JOB자](https://github.com/sungjae0309/3rd_project_dashboard) 
 직무 트렌드를 분석해 커리어 로드맵을 제공하는 AI 커리어 플랫폼
 
-- **프론트엔드 · UI/UX ** 담당 
+- 프론트엔드 · UI/UX 담당 
 - 목표 직무와의 역량 갭 분석, 커리어 로드맵 화면 구현
 - 채용 트렌드 시각화, 대화형 챗봇 화면 구현
 - [시연 영상](https://www.youtube.com/watch?v=7TKfn1Pfmd4)
@@ -12,7 +12,7 @@
 ### [Voisk](https://github.com/Capstone06-Team02/frontend) 
 시각장애인 맞춤 NFC 음성 주문 서비스
 
-- **프론트엔드 · UI/UX ** 담당
+- 프론트엔드 · UI/UX 담당
 - VoiceOver와 받아쓰기 기준으로 주문 흐름 설계
 - 화면보다 음성 안내·포커스 순서·즉각 피드백을 우선
 - `React` `TypeScript` `Vite` `Tailwind`
@@ -20,7 +20,7 @@
 ### [Plog](https://github.com/UMC-Plog/Plog-FE) 
 팀 프로젝트 기여도 평가 플랫폼
 
-- **프론트엔드** 담당
+- 프론트엔드 담당
 - 인증·온보딩 흐름 구현
 - 공통 컴포넌트 개발 
 - `React` `TypeScript` `Zustand`
@@ -28,7 +28,7 @@
 ### [대일테크 리뉴얼](https://github.com/sungjae0309/daeiltech_renewal) 
 기업 홈페이지 리뉴얼 프로토타입
 
-- **단독** 개발
+- 혼자 개발 
 - 제품 목록 필터·검색, 제품 상세, 문의 폼 등 6개 페이지
 - `Next.js 16` `React 19` `TypeScript` `Tailwind 4`
 
@@ -39,9 +39,9 @@
 ### [whyblockchain](https://github.com/sungjae0309/whyblockchain) 
 "왜 블록체인이어야 하는가" 일반인의 이해를 돕는 사이트
 
+- 별도 회원가입, 로그인 필요하지 않음
 - 일반인이 납득할 수 있을 정도로 쉽고 직관적인 사이트 만드는 것이 목표
-- 회원가입, 로그인 필요 X  
-- 현재 개발 중(2026년 내 완성 목표)
+- 2026년 내 완성 목표
 - `TypeScript`
 
 
