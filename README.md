@@ -28,6 +28,12 @@ Foundry 기반 스마트 컨트랙트 실습 저장소입니다. Forge 테스트
 
 ## Frontend
 
+### [Voisk](https://github.com/Capstone06-Team02/frontend) · React · 캡스톤 팀 프로젝트
+시각장애인이 VoiceOver와 받아쓰기로 카페 메뉴를 확인하고 주문할 수 있는 서비스입니다.
+**프론트엔드를 담당해** 음성 안내와 포커스 순서, 단계별 옵션 안내를 중심으로 주문 흐름을 설계했습니다.
+
+React · TypeScript · Vite · Tailwind CSS · Vercel
+
 ### [JOB자](https://github.com/sungjae0309/3rd_project_dashboard) · React · 4인 팀 프로젝트
 신입 구직자를 위한 AI 커리어 파트너입니다. **Front-End를 담당해 UI/UX 설계와 동적 웹 구축**을 맡았습니다.
 목표 직무와의 역량 갭 분석, 커리어 로드맵, 채용 트렌드 시각화, 대화형 상담 화면을 구현했습니다.
