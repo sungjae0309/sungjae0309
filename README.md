@@ -1,13 +1,5 @@
 ## Frontend
 
-### [Voisk](https://github.com/Capstone06-Team02/frontend) · React
-시각장애인 맞춤 NFC 음성 주문 서비스
-
-- **프론트엔드 · UI/UX 기획** 담당
-- VoiceOver와 받아쓰기 기준으로 주문 흐름 설계
-- 화면보다 음성 안내·포커스 순서·즉각 피드백을 우선
-- `React` `TypeScript` `Vite` `Tailwind`
-
 ### [JOB자](https://github.com/sungjae0309/3rd_project_dashboard) · React
 직무 트렌드를 분석해 커리어 로드맵을 제공하는 AI 커리어 플랫폼
 
@@ -15,6 +7,14 @@
 - 목표 직무와의 역량 갭 분석, 커리어 로드맵 화면 구현
 - 채용 트렌드 시각화, 대화형 상담 화면 구현
 - `React` `Zustand` `D3` `Docker` · [시연 영상](https://www.youtube.com/watch?v=7TKfn1Pfmd4)
+
+### [Voisk](https://github.com/Capstone06-Team02/frontend) · React
+시각장애인 맞춤 NFC 음성 주문 서비스
+
+- **프론트엔드 · UI/UX 기획** 담당
+- VoiceOver와 받아쓰기 기준으로 주문 흐름 설계
+- 화면보다 음성 안내·포커스 순서·즉각 피드백을 우선
+- `React` `TypeScript` `Vite` `Tailwind`
 
 ### [Plog](https://github.com/UMC-Plog/Plog-FE) · TypeScript
 팀 프로젝트 기여도 평가 플랫폼
@@ -41,11 +41,6 @@
 - 개발 중
 - `TypeScript`
 
-### [solidity-foundry](https://github.com/sungjae0309/solidity-foundry) · Solidity
-Foundry 기반 스마트 컨트랙트 실습
-
-- Forge 테스트를 함께 작성하며 진행 중
-- `Solidity` `Foundry`
 
 <br>
 
