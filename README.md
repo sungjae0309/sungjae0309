@@ -3,19 +3,20 @@
 ### [폴라리스](https://github.com/offline-mobility/pleos-app) 
 통신이 끊긴 재난 상황에서 차량끼리 도움 요청을 전달하는 차량용 앱
 
-- Pleos Connect 공모전 출품 · 팀 패트와매트
+- 현대자동차그룹 차량용 앱 개발 공모전 출품
+- 이름은 북극성(Polaris)에서: 지도도 통신도 없던 시절 길잡이가 된 별
 - 저전력 모드: 공조 제어로 배터리로 버티는 시간 연장
 - 차에서 차로 전달: 스피커 소리와 외부 조명 점멸로 구조 요청 중계
-- [시연 영상](https://www.youtube.com/shorts/-ZJ-YMX3hs8)
+- [소개 영상 (Shorts)](https://www.youtube.com/shorts/-ZJ-YMX3hs8)
 - `Kotlin` `Android` `Pleos Connect`
 
 ### [WGO](https://github.com/WGO-What-s-Going-On/Frontend) 
 내 주변 150m에서 지금 일어나는 일을 실시간으로 공유하는 위치 기반 커뮤니티
 
-- 프론트엔드 담당
+- 프론트엔드 개발 · UI/UX 전담
 - 지도 핀·게시판·실시간 댓글 화면 구현
 - 홈 화면 앱(PWA)과 웹 푸시 알림
-- [서비스](https://wgo-now.vercel.app)
+- [배포 사이트](https://wgo-now.vercel.app)
 - `React` `TypeScript` `Vite` `Kakao Map`
 
 ### [Voisk](https://github.com/Capstone06-Team02/frontend) 
