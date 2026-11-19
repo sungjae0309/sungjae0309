@@ -26,6 +26,15 @@
 - 화면보다 음성 안내·포커스 순서·즉각 피드백을 우선
 - `React` `TypeScript` `Vite` `Tailwind`
 
+### [JOB자](https://github.com/sungjae0309/3rd_project_dashboard) 
+직무 트렌드를 분석해 커리어 로드맵을 제공하는 AI 커리어 플랫폼
+
+- 프론트엔드 · UI/UX 담당 
+- 목표 직무와의 역량 갭 분석, 커리어 로드맵 화면 구현
+- 채용 트렌드 시각화, 대화형 챗봇 화면 구현
+- [시연 영상](https://www.youtube.com/watch?v=7TKfn1Pfmd4)
+- `React` `Zustand` `D3` `Docker` 
+
 ### [Plog](https://github.com/UMC-Plog/Plog-FE) 
 팀 프로젝트 기여도 평가 플랫폼
 
@@ -40,15 +49,6 @@
 - 별도 회원가입, 로그인 필요하지 않음
 - 일반인이 납득할 수 있을 정도로 쉽고 직관적인 사이트 만드는 것이 목표
 - `TypeScript`
-
-### [JOB자](https://github.com/sungjae0309/3rd_project_dashboard) 
-직무 트렌드를 분석해 커리어 로드맵을 제공하는 AI 커리어 플랫폼
-
-- 프론트엔드 · UI/UX 담당 
-- 목표 직무와의 역량 갭 분석, 커리어 로드맵 화면 구현
-- 채용 트렌드 시각화, 대화형 챗봇 화면 구현
-- [시연 영상](https://www.youtube.com/watch?v=7TKfn1Pfmd4)
-- `React` `Zustand` `D3` `Docker` 
 
 <br>
 
