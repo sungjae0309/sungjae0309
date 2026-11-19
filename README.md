@@ -1,13 +1,22 @@
-## Frontend
+## Projects
 
-### [JOB자](https://github.com/sungjae0309/3rd_project_dashboard) 
-직무 트렌드를 분석해 커리어 로드맵을 제공하는 AI 커리어 플랫폼
+### [폴라리스](https://github.com/offline-mobility/pleos-app) 
+통신이 끊긴 재난 상황에서 차량끼리 도움 요청을 전달하는 차량용 앱
 
-- 프론트엔드 · UI/UX 담당 
-- 목표 직무와의 역량 갭 분석, 커리어 로드맵 화면 구현
-- 채용 트렌드 시각화, 대화형 챗봇 화면 구현
-- [시연 영상](https://www.youtube.com/watch?v=7TKfn1Pfmd4)
-- `React` `Zustand` `D3` `Docker` 
+- Pleos Connect 공모전 출품 · 팀 패트와매트
+- 저전력 모드: 공조 제어로 배터리로 버티는 시간 연장
+- 차에서 차로 전달: 스피커 소리와 외부 조명 점멸로 구조 요청 중계
+- [시연 영상](https://www.youtube.com/shorts/-ZJ-YMX3hs8)
+- `Kotlin` `Android` `Pleos Connect`
+
+### [WGO](https://github.com/WGO-What-s-Going-On/Frontend) 
+내 주변 150m에서 지금 일어나는 일을 실시간으로 공유하는 위치 기반 커뮤니티
+
+- 프론트엔드 담당
+- 지도 핀·게시판·실시간 댓글 화면 구현
+- 홈 화면 앱(PWA)과 웹 푸시 알림
+- [서비스](https://wgo-now.vercel.app)
+- `React` `TypeScript` `Vite` `Kakao Map`
 
 ### [Voisk](https://github.com/Capstone06-Team02/frontend) 
 시각장애인 맞춤 NFC 음성 주문 서비스
@@ -25,31 +34,21 @@
 - 공통 컴포넌트 개발 
 - `React` `TypeScript` `Zustand`
 
-<br>
-
-## App
-
-### [폴라리스](https://github.com/offline-mobility/pleos-app) 
-통신이 끊긴 재난 상황에서 차량끼리 도움 요청을 전달하는 차량용 앱
-
-- Pleos Connect 공모전 출품 · 팀 패트와매트
-- 저전력 모드: 공조 제어로 배터리로 버티는 시간 연장
-- 차에서 차로 전달: 스피커 소리와 외부 조명 점멸로 구조 요청 중계
-- [시연 영상](https://www.youtube.com/shorts/-ZJ-YMX3hs8)
-- `Kotlin` `Android` `Pleos Connect`
-
-<br>
-
-## Blockchain / Web3
-
 ### [whyblockchain](https://github.com/sungjae0309/whyblockchain) 
 "왜 블록체인이어야 하는가" 일반인의 이해를 돕는 사이트
 
 - 별도 회원가입, 로그인 필요하지 않음
 - 일반인이 납득할 수 있을 정도로 쉽고 직관적인 사이트 만드는 것이 목표
-- 2026년 내 완성 목표
 - `TypeScript`
 
+### [JOB자](https://github.com/sungjae0309/3rd_project_dashboard) 
+직무 트렌드를 분석해 커리어 로드맵을 제공하는 AI 커리어 플랫폼
+
+- 프론트엔드 · UI/UX 담당 
+- 목표 직무와의 역량 갭 분석, 커리어 로드맵 화면 구현
+- 채용 트렌드 시각화, 대화형 챗봇 화면 구현
+- [시연 영상](https://www.youtube.com/watch?v=7TKfn1Pfmd4)
+- `React` `Zustand` `D3` `Docker` 
 
 <br>
 
