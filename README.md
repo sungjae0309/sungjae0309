@@ -25,12 +25,18 @@
 - 공통 컴포넌트 개발 
 - `React` `TypeScript` `Zustand`
 
-### [대일테크 리뉴얼](https://github.com/sungjae0309/daeiltech_renewal) 
-기업 홈페이지 리뉴얼 프로토타입
+<br>
 
-- 혼자 개발 
-- 제품 목록 필터·검색, 제품 상세, 문의 폼 등 6개 페이지
-- `Next.js 16` `React 19` `TypeScript` `Tailwind 4`
+## App
+
+### [폴라리스](https://github.com/offline-mobility/pleos-app) 
+통신이 끊긴 재난 상황에서 차량끼리 도움 요청을 전달하는 차량용 앱
+
+- Pleos Connect 공모전 출품 · 팀 패트와매트
+- 저전력 모드: 공조 제어로 배터리로 버티는 시간 연장
+- 차에서 차로 전달: 스피커 소리와 외부 조명 점멸로 구조 요청 중계
+- [시연 영상](https://www.youtube.com/shorts/-ZJ-YMX3hs8)
+- `Kotlin` `Android` `Pleos Connect`
 
 <br>
 
